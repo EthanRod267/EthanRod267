@@ -12,7 +12,7 @@ Computer Science student at Florida International University with a focus on mac
 
 ## 🚀 About Me
 
-I'm a computer science student who enjoys working at the intersection of machine learning and software engineering. Whether it's building an ML pipeline on 17,000+ patient records or implementing a CLIP model from scratch, I like understanding systems deeply enough to build them from the ground up — not just call an API. I'm also passionate about mentorship and have taught Python fundamentals to high school students and helped guide younger developers through their first coding challenges.
+I'm a computer science student who enjoys working at the intersection of machine learning and software engineering. Whether it's building an ML pipeline on thousands of records or implementing a CLIP model from scratch, I like understanding systems deeply enough to build them from the ground up — not just call an API. I'm also passionate about mentorship and have taught Python fundamentals and helped others through their first coding challenges.
 
 Currently sharpening my skills through selective programs like **AI4ALL IGNITE** and the **Management Leadership for Tomorrow (MLT) Career Prep Fellowship**, while building toward a career in machine learning / software engineering.
 
@@ -24,7 +24,7 @@ Currently sharpening my skills through selective programs like **AI4ALL IGNITE**
 
 **ML/Data Libraries:** PyTorch, TensorFlow, Hugging Face, scikit-learn, pandas, NumPy, matplotlib
 
-**Relevant Coursework:** Data Structures, Computer Architecture, Software Engineering I, Algorithm Techniques, AWS Cloud Foundations
+**Relevant Coursework:** Intro to Machine Learning, Artificial Intelligence, Principles of Programming Languages, Systems Programming, Intermediate Technical Interview and Foundations of Applied AI Engineering (Codepath)
 
 ## 💡 Recent Projects
 
